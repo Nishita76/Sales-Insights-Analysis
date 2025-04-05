@@ -90,4 +90,11 @@ Show total revenue in year 2020 in Chennai.
 
 ### Tableau Dashboards 
 - Revenue Analysis
+
+  ![Revenue Dashboard](Tableau Dashboard/Dashboard- Revenue Analysis.png)
+
+- Profit Analysis
+
+  ![Revenue Dashboard](Tableau Dashboard/Dashboard- Profit Analysis.png)
+  
   
