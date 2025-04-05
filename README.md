@@ -1,4 +1,4 @@
-## Sales Insights Abalysis using Tableau & SQL
+# Sales Insights Abalysis using Tableau & SQL
 As part of my data analyst & data science journey, I performed an end-to-end sales insights project for an India-based hardware company, utilizing SQL-based databases
 ### Project Overview
 This project focused on analyzing sales performance using structured data across multiple dimensions like revenue, profit, cost, and region. 
@@ -10,7 +10,7 @@ This project focused on analyzing sales performance using structured data across
 * Profit Analysis Dashboard
 - Tools used - MySql, Tableau, PowerBI, Github
   
-### 🔗 [Sales Insights Tableau Public](https://public.tableau.com/views/SalesInsights-DataAnalysisProjectusingTableau_17438516539650/Dashboard-RevenueAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### 🔗 [Sales Insights Tableau Public](https://public.tableau.com/views/SalesInsights-DataAnalysisProjectusingTableau_17438516539650/Dashboard-RevenueAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) :Tableau:
 
 ### Problem Statements
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
@@ -91,10 +91,10 @@ Show total revenue in year 2020 in Chennai.
 ### Tableau Dashboards 
 - Revenue Analysis
 
-  ![Revenue Dashboard](tableau%20dashboard/dashboard-revenueanalysis.png)
+  ![Test Image 6](https://github.com/Nishita76/Sales-Insights-Analysis/blob/main/Tableau%20Dashboard/Dashboard%20-%20Revenue%20Analysis.png)
 
 - Profit Analysis
 
-  ![Revenue Dashboard](Tableau Dashboard/Dashboard- Profit Analysis.png)
+  ![Test Image 6](https://github.com/Nishita76/Sales-Insights-Analysis/blob/main/Tableau%20Dashboard/Dashboard%20-%20Profit%20Analysis.png)
   
   
