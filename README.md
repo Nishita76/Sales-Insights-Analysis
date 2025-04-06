@@ -1,4 +1,4 @@
-# Sales Insights Abalysis using Tableau & SQL
+# Sales Insights Analysis using Tableau & SQL
 As part of my data analyst & data science journey, I performed an end-to-end sales insights project for an India-based hardware company, utilizing SQL-based databases
 ### Project Overview
 This project focused on analyzing sales performance using structured data across multiple dimensions like revenue, profit, cost, and region. 
